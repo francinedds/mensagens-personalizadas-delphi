@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/03/06 13:11:22.170,=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/03/06 13:12:34.800,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\ViewMensagem.pas=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/03/06 13:12:34.800,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\ViewMensagem.dfm=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2025/03/06 13:13:57.519,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.pas=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\ViewMensagem.pas</Transaction>
+    <Transaction>2025/03/06 13:13:57.519,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.dfm=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\ViewMensagem.dfm</Transaction>
+    <Transaction>2025/03/06 13:14:05.893,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.mensagem=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem</Transaction>
+    <Transaction>2025/03/06 13:14:05.893,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.dfm=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.dfm</Transaction>
+    <Transaction>2025/03/06 13:18:10.312,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\MensagensPersonanizadas.dproj=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/03/06 13:58:59.852,=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\Unit1.pas</Transaction>
+    <Transaction>2025/03/06 14:01:58.188,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.ok.dfm=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.dfm</Transaction>
+    <Transaction>2025/03/06 14:01:58.188,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.ok.pas=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.pas</Transaction>
+    <Transaction>2025/03/06 14:02:25.550,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.alert.pas=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\Unit1.pas</Transaction>
+    <Transaction>2025/03/06 14:02:25.550,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.alert.dfm=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\Unit1.dfm</Transaction>
+    <Transaction>2025/03/06 14:07:13.119,=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\Unit1.pas</Transaction>
+    <Transaction>2025/03/06 14:07:31.634,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.error.pas=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\Unit1.pas</Transaction>
+    <Transaction>2025/03/06 14:07:31.634,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.error.dfm=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\Unit1.dfm</Transaction>
+    <Transaction>2025/03/06 14:17:06.322,=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\Unit1.pas</Transaction>
+    <Transaction>2025/03/06 14:18:11.250,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.oops.dfm=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\Unit1.dfm</Transaction>
+    <Transaction>2025/03/06 14:18:11.250,C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\view\view.mensagem.oops.pas=C:\Users\EMANUEL\Desktop\+\Projeto DesignDelphi Mensagens Personalizadas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

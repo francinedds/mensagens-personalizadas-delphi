@@ -1,0 +1,118 @@
+object ViewMensagemOops: TViewMensagemOops
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'ViewMensagemOops'
+  ClientHeight = 239
+  ClientWidth = 577
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Position = poMainFormCenter
+  TextHeight = 15
+  object pnlBackground: TPanel
+    Left = 0
+    Top = 0
+    Width = 577
+    Height = 239
+    Margins.Top = 1
+    Margins.Bottom = 0
+    Align = alClient
+    Color = 16053492
+    ParentBackground = False
+    TabOrder = 0
+    ExplicitHeight = 267
+    object pnlHeader: TPanel
+      AlignWithMargins = True
+      Left = 1
+      Top = 50
+      Width = 575
+      Height = 111
+      Margins.Left = 0
+      Margins.Top = 1
+      Margins.Right = 0
+      Margins.Bottom = 0
+      Align = alTop
+      BevelOuter = bvNone
+      Color = 1357534
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWhite
+      Font.Height = -12
+      Font.Name = 'Segoe UI'
+      Font.Style = []
+      ParentBackground = False
+      ParentFont = False
+      TabOrder = 0
+      object lblMensagem: TLabel
+        Left = 184
+        Top = 49
+        Width = 221
+        Height = 13
+        Caption = 'N'#227'o foi poss'#237'vel realizar essa opera'#231#227'o!'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWhite
+        Font.Height = -11
+        Font.Name = 'Tahoma'
+        Font.Style = [fsBold]
+        ParentFont = False
+      end
+    end
+    object Panel1: TPanel
+      Left = 1
+      Top = 1
+      Width = 575
+      Height = 48
+      Align = alTop
+      BevelOuter = bvNone
+      Color = 1357534
+      ParentBackground = False
+      TabOrder = 1
+      ExplicitTop = -2
+      object lblTitulo: TLabel
+        Left = 264
+        Top = 5
+        Width = 59
+        Height = 28
+        Caption = 'Oops!'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWhite
+        Font.Height = -23
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+    end
+    object pnlButtonOk: TPanel
+      Left = 248
+      Top = 184
+      Width = 97
+      Height = 33
+      BevelOuter = bvNone
+      Color = 1357534
+      ParentBackground = False
+      TabOrder = 2
+      object btnOk: TSpeedButton
+        Left = 0
+        Top = 0
+        Width = 97
+        Height = 33
+        Align = alClient
+        Caption = 'OK'
+        Flat = True
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWhite
+        Font.Height = -12
+        Font.Name = 'Segoe UI'
+        Font.Style = [fsBold]
+        ParentFont = False
+        OnClick = btnOkClick
+        ExplicitLeft = 40
+        ExplicitWidth = 23
+        ExplicitHeight = 22
+      end
+    end
+  end
+end
